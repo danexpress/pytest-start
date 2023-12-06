@@ -36,3 +36,7 @@ class Teacher(Person):
 
 class Student(Person):
     pass
+
+
+# using pytest and the functions that come from it. Such as fixtures, parameterize ,
+# raises and mark, where ever neccessary. Test the following code and theme it after Harry potter.
